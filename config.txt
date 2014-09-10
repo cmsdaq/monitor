@@ -1,3 +1,7 @@
 [Config]
-es_server_url = t3serv015
-
+es_server_url = http://t3serv015.mit.edu:9200
+elastic_runindex_name=runindex_cdaq
+runindex_name=runindex_cdaq
+dirname=/home/dhsu/monitor/
+log_dir=/home/dhsu/monitor/log/
+run_number_padding=0
